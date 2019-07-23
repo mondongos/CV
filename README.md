@@ -1,55 +1,66 @@
-## Your Name
+## Max Van Aken
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a Scottish/American with a background in accounting & finance, marketing and event management. I am highly self-motivated and got into software development to learn how to execute my ideas.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### JavaScript
+TBD
+#### Ruby / Rails
+TBD
+#### HTML/CSS
+TBD
+#### Test Driven Development (TDD)
+TBD
+#### Accounting & Finance
+TBD
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Apr 2019 to Jul 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Aberdeen (Sep 2009 to Jun 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+M.A. (Hons) International Relations & Finance
 
-#### Any other qualifications
+#### Other Qualifications:
 
-That in some arguable way make you a better software developer or well-rounded person
+- Chartered Institute of Management Accounts - *Certificate Level Management Accountant*
+- Financial Conduct Authority - *Authorised Person CF30 Customer (Ref. MTV01008)*
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Pomanda** (Jan 2016 to Mar 2019)    
+*Operations Manager* <br>
+An online fintech platform that gives business owners the tools to run company valuations, gain industry insight or connect with investors and advisers. Primarily responsible for creation and implementation of digital strategy.   
+- Basic HTML/CSS/JS related to digital marketing such as creating landing pages and emails.
+- Writing user stories for software implementation related to improving user engagement on platform.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Arthur J. Gallagher & Co** (Nov 2013 to Dec 2015) <br>
+*Finance Business Partner – Home Office*   
+Multinational insurance broker specialising in a vast array of products across the insurance value chain. Worked in the operational side of the business to provide financial and budgeting support to heads of business and executives.
+- Worked extensively with Microsoft Excel, including VBA.
+- Acted as finance lead for real estate and marketing business units, communicating with business leaders and stakeholders, and providing vital financial performance information and analysis.
+
+
+**Minival** (Aug 2011 to present)   
+*Director*   
+A house and techno events business founded in Aberdeen drawing between 500 and 2,000 people per event, and currently running around 8 events per year. Jointly responsible for all aspects of events business, and acting resident DJ.
+- Coordinating teams of 5 – 20 workers at events.
+- Promotion of events through social media, booking artists, management of ticketing & financials, and tendering/negotiating contracts with suppliers.
+
+**TEDxUnionTerrace** (Sep 2012 to Apr 2013)  
+*Co-Founder*   
+Independently organised non-profit conference with 9 presenters for sold-out audience of 200. Responsible for all aspects of organising event, including registration with TEDx program initiative and selection of theme & presenters.
+- Ran logistics for the numerous audio/visual requirements of the conference, including setup and operation of equipment throughout the conference. 
+- Management of 6 volunteers for initial preparations, coordination during the conference, and breakdown of equipment.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I am a huge music fan and particularly love blues, jazz, hip hop, house, disco and highlife music. In my spare time, I go digging for records and make beats using samples from the records I buy. I also love DJing and am the resident DJ for my events company Minival.
