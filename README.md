@@ -1,20 +1,14 @@
 ## Max Van Aken
 
-I am a Scottish/American with a background in accounting & finance, marketing and event management. I am highly self-motivated and got into software development to learn how to execute my ideas.
+I am a **junior full-stack developer** with a background in accounting & finance, marketing and event management. I got into software development because I wanted to execute my own ideas, and I am looking for a role where I can expand my knowledge of programming.
 
-## Skills
+## Projects
 
-
-#### JavaScript
-TBD
-#### Ruby / Rails
-TBD
-#### HTML/CSS
-TBD
-#### Test Driven Development (TDD)
-TBD
-#### Accounting & Finance
-TBD
+|Project   |Description   |Tech   |
+|---|---|---|
+|[Woke](https://github.com/mondongos/woke-platypus)   |A voice-activated trivia game you can play in your car. |Java    |
+|[Acebook](https://github.com/mondongos/acebook-rails-amoeba-boyz)   |A Facebook replica   |Rails |
+|[Checkout](https://github.com/mondongos/checkout-exercise)  |A supermarket checkout that calculates the total price of a number of items   |JavaScript   |
 
 ## Education
 
