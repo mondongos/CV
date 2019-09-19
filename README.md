@@ -9,7 +9,7 @@ I am a **junior full-stack developer** with a background in accounting & finance
 |[Woke](https://github.com/mondongos/woke-platypus)   |A voice-activated trivia game you can play in your car. |Java    |
 |[Acebook](https://github.com/mondongos/acebook-rails-amoeba-boyz)   |A Facebook replica   |Rails |
 |[Checkout](https://github.com/mondongos/checkout-exercise)  |A supermarket checkout that calculates the total price of a number of items   |JavaScript   |
-|[eBraai](https://github.com/mondongos/eBraai)  |An auction-style website for barbeques   |JavaScript   |
+|[eBraai](https://github.com/mondongos/eBraai)  |An auction-style website for barbeques (WIP)   |JavaScript   |
 
 ## Education
 
