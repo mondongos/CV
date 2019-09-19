@@ -32,8 +32,10 @@ M.A. (Hons) International Relations & Finance
 
 **Pomanda** (Jan 2016 to Mar 2019)    
 *Operations Manager* <br>
-An online fintech platform that gives business owners the tools to run company valuations, gain industry insight or connect with investors and advisers. Primarily responsible for creation and implementation of digital strategy.   
-- Basic HTML/CSS/JS related to digital marketing such as creating landing pages and emails.
+An online fintech platform that gives business owners the tools to run company valuations, gain industry insight or connect with investors and advisers. Key member of the team whilst company was finding product market fit. Primarily responsible for creation and implementation of digital marketing strategy, and analytics reporting for exec and development teams. Accomplishments include:  
+- Learned HTML/CSS/JS to build emails, landing pages and other digital marketing resources. 
+- Examination of a consumer behaviour led to a major company pivot, moving away from an M&A matching platform towards a business insights platform. 
+- Monitoring and constant iteration of AdWords campaigns led to an average 3% click-through rate on ads and a 12% signup rate on landing pages.  
 - Writing user stories for software implementation related to improving user engagement on platform.
 
 **Arthur J. Gallagher & Co** (Nov 2013 to Dec 2015) <br>
