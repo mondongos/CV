@@ -61,4 +61,4 @@ Independently organized non-profit conference. Responsible for all aspects of or
 
 ## Hobbies
 
-I am a huge music fan and particularly love blues, jazz, hip hop, house, disco and highlife music. In my spare time, I go digging for records and make beats using samples from the records I buy. I also love DJing and am the resident DJ for my events company Minival.
+I'm a huge music fan and particularly love blues, jazz, hip hop, house, disco and highlife music. In my spare time, I go digging for records and make beats using samples from the records I buy ([my SoundCloud](https://soundcloud.com/maxvanaken)). I also love DJing and am the resident DJ for my events company Minival.
