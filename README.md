@@ -10,6 +10,7 @@ I am a **junior full-stack developer** with a background in accounting & finance
 |[Acebook](https://github.com/mondongos/acebook-rails-amoeba-boyz)   |A Facebook replica   |Rails |
 |[Checkout](https://github.com/mondongos/checkout-exercise)  |A supermarket checkout that calculates the total price of a number of items   |JavaScript   |
 |[eBraai](https://github.com/mondongos/eBraai)  |An auction-style website for barbeques (WIP)   |JavaScript   |
+|[Weather](https://github.com/mondongos/weather-app)  |Basic weather app using API to display weather in places I've lived    |React   |
 
 ## Education
 
