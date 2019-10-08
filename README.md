@@ -6,6 +6,7 @@ I am a **junior full-stack developer** with a background in accounting & finance
 
 |Project   |Description   |Tech   |
 |---|---|---|
+|[FlightWatcher](https://github.com/mondongos/flightwatcher)   |Type in destinations and get alerts when flights are reasonable |React    |
 |[Woke](https://github.com/mondongos/woke-platypus)   |A voice-activated trivia game you can play in your car. |Java    |
 |[Acebook](https://github.com/mondongos/acebook-rails-amoeba-boyz)   |A Facebook replica   |Rails |
 |[Checkout](https://github.com/mondongos/checkout-exercise)  |A supermarket checkout that calculates the total price of a number of items   |JavaScript   |
