@@ -48,6 +48,12 @@ Multinational insurance broker specialising in a vast array of products across t
 - Following integration of 2 major insurance brokers, analysis of real estate costs led to annual savings of around £2 million, and consolidation of the number of offices from 151 to 135. 
 - Communicating with commercially-minded heads of business, breaking down financials into practical commentary and metrics. 
 
+**Arthur J. Gallagher & Co** (Aug 2013 to Nov 2013) <br>
+*M&A Analyst*   
+Multinational insurance broker specialising in a vast array of products across the insurance value chain. Worked in the M&A department while the company was completing due diligence on acquisition of two of the UK's largest insurance brokers. Accomplishments include:
+- Worked extensively with Microsoft Excel, including VBA.
+- Performed various due diligence tasks, primarily reconciling financials and tax information. 
+
 **Minival** (Aug 2011 to present)   
 *Director*   
 A music event business founded in Aberdeen drawing between 500 and 2,000 people per event. Planned over 60 profitable events, from booking artists, venues and suppliers, ticketing, marketing and running the show. Accomplishments include: 
