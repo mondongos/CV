@@ -28,8 +28,8 @@ M.A. (Hons) International Relations & Finance
 
 #### Other Qualifications:
 
-- Chartered Institute of Management Accounts - *Certificate Level Management Accountant*
-- Financial Conduct Authority - *Authorised Person CF30 Customer (Ref. MTV01008)*
+- Chartered Institute of Management Accounts (CIMA) - *Certificate Level Management Accountant*
+- Financial Conduct Authority (FCA) - *Authorised Person CF30 Customer (Ref. MTV01008)*
 
 ## Experience
 
