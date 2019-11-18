@@ -1,6 +1,6 @@
 ## Max Van Aken
 
-I am a **junior full-stack developer** with a background in accounting & finance, marketing and event management. I got into software development because I wanted to execute my own ideas, and I am looking for a role where I can expand my knowledge of programming.
+I am a **junior full-stack developer** with a background in accounting & finance, marketing and event management. I am Seeking a role in a company with a modern tech stack where I can consolidate and extend my programming knowledge.
 
 ## Projects
 
@@ -17,7 +17,7 @@ I am a **junior full-stack developer** with a background in accounting & finance
 
 #### Makers Academy (Apr 2019 to Jul 2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
