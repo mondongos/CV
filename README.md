@@ -1,6 +1,6 @@
 ## Max Van Aken
 
-I am a **junior full-stack developer** with a background in accounting & finance, marketing and event management. I am Seeking a role in a company with a modern tech stack where I can consolidate and extend my programming knowledge.
+I am a **junior full-stack developer** with a background in accounting & finance, marketing and event management. I am seeking a role in a company with a modern tech stack where I can consolidate and extend my programming knowledge.
 
 ## Projects
 
